@@ -1,7 +1,6 @@
 flask
-flask-cors
-httpx
-cachetools
-protobuf
-pycryptodome
-asgiref
+​flask-cors
+​httpx
+​protobuf
+​pycryptodome
+​asgiref
